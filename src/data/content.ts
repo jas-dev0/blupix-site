@@ -12,8 +12,8 @@ export const brand = {
     'BluPix is led by Jasmine Allen, a software engineer and technical consultant based in Southfield, MI. With 5+ years of experience across enterprise software, API development, and automation, Jasmine founded BluPix to bring that same level of engineering expertise to small businesses and creators who deserve technology that actually works.',
   portfolioUrl: 'https://jasmineallen.dev',
   email: 'jasmineallen.dev@gmail.com',
-  linkedin: 'linkedin.com/in/yourprofile',   // ← update
-  github: 'github.com/yourusername',          // ← update
+  linkedin: 'https://www.linkedin.com/in/jasmine-allen/',   // ← update
+  github: 'https://github.com/jas-dev0',          // ← update
 }
 
 export const services = [

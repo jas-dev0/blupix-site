@@ -5,7 +5,7 @@ import { testimonials } from '@/data/content'
 export default function Testimonials() {
   const hasReal = testimonials.some((t) => !t.placeholder)
 
-  if (!hasReal) return null  // Hide entirely until real testimonials exist
+  if (!hasReal) return null  // Hide entirely until real testimonials sent back
 
   return (
     <section className="px-6 md:px-10 py-14 md:py-16 border-b" style={{ borderColor: 'rgba(255,255,255,0.07)' }}>
